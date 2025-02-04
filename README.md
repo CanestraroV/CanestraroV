@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a studying code, 
+I hope learn a lot and help as possible
 
 <!--
 **CanestraroV/CanestraroV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
